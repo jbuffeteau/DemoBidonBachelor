@@ -20,6 +20,8 @@ public class DemoBidon {
         
         int i = 4;
         int j = 3;
+        
+        i = 12;
     }
     
 }
